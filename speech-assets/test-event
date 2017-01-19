@@ -1,12 +1,12 @@
 {
   "session": {
-    "sessionId": "SessionId.3eda238e-38c8-4313-b984-e4dd69cb709d",
+    "sessionId": "SessionId.3eda238e-38c8-4313-b984-e4dd69cb709q",
     "application": {
       "applicationId": "amzn1.ask.skill.8ad7202f-cdfc-4771-9901-5e5be169ef86"
     },
     "attributes": {},
     "user": {
-      "userId": "amzn1.ask.account.AENIWCAXAACM2G244H7D3UK3WRLPFYVO5DTVX7GWS2OZPMYH2ZIXGAGL3WBSQEZYEJWIXJEFAA7XTJ73SXI5I3TTHUHVWXFZK5IBOLF5I6S47HPLZRNZOPO645GJSUMIHB6KF5RLJA2RRW6OLA6KTOPTKGEXHOLCUEE5JYF4Q62SK65NOFSKYFQ4QQM6LO37OE65HKUFFYQAAHA"
+      "userId": "amzn1.ask.account.BLAH"
     },
     "new": true
   },
