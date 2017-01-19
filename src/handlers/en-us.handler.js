@@ -5,7 +5,7 @@ module.exports = {
   },
   'PPAPIntent': function () {
     console.log("PPAPIntent fired...");
-    this.emit(':tellWithCard', lyrics, SKILL_NAME, 'Pen Pineapple Apple Pen!');
+    this.emit(':tellWithCard', lyrics, SKILL_NAME, 'https://www.youtube.com/watch?v=HFlgNoUsr4k');
   },
   'AMAZON.CancelIntent': function () {
     console.log("CancelIntent fired...");
