@@ -1,0 +1,23 @@
+{
+  "name": "Pen Pineapple Apple Pen",
+  "version": "1.0.0",
+  "description": "Ugh, pen pineapple apple pen!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pen",
+    "pineapple",
+    "pineapple pen",
+    "apple pen",
+    "pico taro",
+    "alexa",
+    "alexa skills kit"
+  ],
+  "author": "joshcb",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
